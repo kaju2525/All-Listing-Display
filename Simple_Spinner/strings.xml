@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Google Map Demo</string>
+
+
+    <string-array name="list_name">
+    <item name="select">   Select  </item>
+    <item name="one"> ★ One</item>
+    <item name="two"> ☀ Two</item>
+    <item name="three">❤ Three</item>
+    <item name="four"> ☂ Four</item>
+    <item name="five"> ☘ Five</item>
+    </string-array>
+
+</resources>
